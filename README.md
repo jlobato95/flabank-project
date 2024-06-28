@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/jlobato95/flabank-project
 
 ## 🚀 Demo
-Check out the live demo <a href="">here</a> 🌐
+Check out the live demo <a href="https://jlobato95.github.io/flabank-project/">here</a> 🌐
 
 ## 📚 Learning Outcomes
 Understanding of HTML 5, CSS 3, and modern JavaScript (ES6+).
