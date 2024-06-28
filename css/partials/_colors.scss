@@ -1,0 +1,45 @@
+// Colors
+
+// Brand Colors
+
+$primary-normal: #cd3529;
+$primary-light: #e6827a;
+$primary-dark: #9e241a;
+
+// Auxiliary Colors
+
+$green-normal: #32d957;
+$green-light: #50e170;
+$green-dark: #28bb49;
+
+$yellow-normal: #ffce52;
+$yellow-light: #ffd76b;
+$yellow-dark: #d9b043;
+
+// Neutral Colors
+
+$white-normal: #f3f0f5;
+$white-light: #fbf8fc;
+$white-dark: #edeaef;
+
+$black-normal: #232224;
+$black-light: #353436;
+$black-dark: #161617;
+
+// Gray Scale
+
+$gray-1: #454446;
+$gray-2: #555456;
+$gray-3: #666566;
+$gray-4: #767576;
+$gray-5: #868587;
+$gray-6: #969597;
+$gray-7: #a6a6a7;
+
+.color-white{
+  color: $white-light;
+}
+
+.color-black{
+  color: $black-normal;
+}
